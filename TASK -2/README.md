@@ -61,10 +61,13 @@ Block all incoming traffic and allow all outgoing traffic:
    22/tcp (v6)                ALLOW       Anywhere (v6)
    80/tcp (v6)                ALLOW       Anywhere (v6)
 
-## Files Included
 
+
+## Files Included
 - ufw_configuration.txt – Terminal output of commands
 - README.md – This documentation
+
+
 
 *Prepared by:* G Sunil Kumar  
 *Date:* 05 August 2025  
