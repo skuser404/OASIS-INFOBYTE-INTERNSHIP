@@ -49,18 +49,6 @@ Block all incoming traffic and allow all outgoing traffic:
    ```bash
    sudo ufw status verbose
 
-## Sample Output
-
-   ```bash
-   Status: active
-
-   To                         Action      From
-   --                         ------      ----
-   22/tcp                     ALLOW       Anywhere
-   80/tcp                     ALLOW       Anywhere
-   22/tcp (v6)                ALLOW       Anywhere (v6)
-   80/tcp (v6)                ALLOW       Anywhere (v6)
-
 ---
 
 **Files Included in This Repository**
@@ -76,5 +64,20 @@ Block all incoming traffic and allow all outgoing traffic:
 ---
 
 **Prepared by:** G Sunil Kumar  
-**Date:** 05 August 2025
+**Date:** 05 August 2025   
+
+## Sample Output
+
+   ```bash
+   Status: active
+
+   To                         Action      From
+   --                         ------      ----
+   22/tcp                     ALLOW       Anywhere
+   80/tcp                     ALLOW       Anywhere
+   22/tcp (v6)                ALLOW       Anywhere (v6)
+   80/tcp (v6)                ALLOW       Anywhere (v6)
+
+
+
 
