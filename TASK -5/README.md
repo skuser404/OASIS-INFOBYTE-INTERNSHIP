@@ -2,7 +2,7 @@
 ## Task 5: Social Engineering Attacks Report  
 
 **Prepared by:** G Sunil Kumar  
-**Date:** August 2025  
+**Date:** 10 August 2025  
 
 ---
 
@@ -78,3 +78,4 @@ A detailed bibliography of industry-leading sources and real-world cases is prov
 
 *G Sunil Kumar*  
 Cybersecurity Intern | 10 August 2025
+
