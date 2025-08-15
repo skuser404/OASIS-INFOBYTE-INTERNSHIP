@@ -61,11 +61,13 @@ Block all incoming traffic and allow all outgoing traffic:
    22/tcp (v6)                ALLOW       Anywhere (v6)
    80/tcp (v6)                ALLOW       Anywhere (v6)
 
-
+---
 
 ### Files Included in This Repository  
 - ufw_configuration.txt – Terminal output of commands
 - README.md – This documentation
+
+---
 
 ### Tools & Resources  
 - UFW Official Documentation: https://help.ubuntu.com/community/UFW
@@ -77,5 +79,6 @@ Block all incoming traffic and allow all outgoing traffic:
 **Date:** 05 August 2025  
 
    
+
 
 
