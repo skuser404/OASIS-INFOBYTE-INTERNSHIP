@@ -73,8 +73,9 @@ Block all incoming traffic and allow all outgoing traffic:
 
 ---
 
-*Prepared by:* G Sunil Kumar  
-*Date:* 05 August 2025  
+**Prepared by:** G Sunil Kumar  
+**Date:** 05 August 2025  
 
    
+
 
